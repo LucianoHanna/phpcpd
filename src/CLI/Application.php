@@ -101,9 +101,9 @@ Usage:
 
 Options for selecting files:
 
-  --suffix <suffix> Include files with names ending in <suffix> in the analysis
+  --suffix=<suffix> Include files with names ending in <suffix> in the analysis
                     (default: .php; can be given multiple times)
-  --exclude <path>  Exclude files with <path> in their path from the analysis
+  --exclude=<path>  Exclude files with <path> in their path from the analysis
                     (can be given multiple times)
 
 Options for analysing files:
